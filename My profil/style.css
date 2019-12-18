@@ -1,0 +1,23 @@
+body {background-color: #dadada;color: rgb(50, 50, 50);font-family: 'Crimson Text', serif;font-size: 18px;}
+
+h1 {
+	color: #57b551;
+	font-family: fantasy;
+	font-weight: 500;
+	font-size: 40px;
+}
+
+h2 {
+	color: #4b644a;
+	font-family: broadway;
+	font-size: 21px;
+	font-weight: lighter;
+}
+
+a {
+	text-decoration: none; 
+	color: blue;
+}
+a:hover {
+	color: purple;
+}
